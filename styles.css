@@ -50,3 +50,8 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+/* New CSS rule for h3 class */
+.h3 {
+  color: #f7c04d;
+}
+
